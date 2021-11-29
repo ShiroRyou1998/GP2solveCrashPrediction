@@ -4,7 +4,9 @@ Establish real-time crash prediction model via Genetic Programming
 Userer manual
 
 Step1, download all files in this folder
+
 Step2, ask for the traffic crash data from the author sean98ma@seu.edu.cn
+
 Step3, run GPmain.m in matlab
 
 Attention: 
